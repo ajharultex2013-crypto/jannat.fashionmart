@@ -1,0 +1,9 @@
+{
+  "name": "jannat-fashion-mart",
+  "version": "1.0.0",
+  "description": "Jannat Fashion Mart - online shop for Bangladesh. Zero-dependency Node.js REST API + storefront + admin panel.",
+  "main": "server.js",
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
